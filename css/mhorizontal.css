@@ -1,0 +1,31 @@
+ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #2700E9;
+	background:#C2CCDA;
+    
+    
+}
+li{
+	display: inline-block;
+}
+a{
+	font-family: ""Metamorphous,
+	cursive;
+	text-decoration: none;
+	font-size: 16px;
+	display: block;
+	padding: 6px;
+	border: 1px solid #84E6FF;
+	background-color: #BEC6CB;
+	color: #DC2C29;
+	
+}
+a:hover{
+   color: #BDFFFA;
+   background-color: #E9002E;
+   border-right-width: 5px;
+   border-right-color: black;
+   
+}
